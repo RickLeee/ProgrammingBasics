@@ -11,7 +11,6 @@
 
 IOC过程：xml解析+反射+工厂
 
-![image-20210914202111159](C:\Users\RickLee\AppData\Roaming\Typora\typora-user-images\image-20210914202111159.png)
 
 ## 接口(BeanFactory)
 
@@ -24,7 +23,6 @@ IOC过程：xml解析+反射+工厂
 
 3. ### ApplicationContext实现类
 
-   ![image-20210914205629316](C:\Users\RickLee\AppData\Roaming\Typora\typora-user-images\image-20210914205629316.png)
 
 ## IOC操作Bean管理
 
